@@ -1,4 +1,4 @@
-<style>
+
 .highlight-light-purple {
 color: #BF9ACA;
 font-weight: bold;
@@ -32,7 +32,7 @@ font-weight: bold;
     font-weight: bold
 }
 
-</style>
+
 
 # Troubleshooting Issues with Docker
 
