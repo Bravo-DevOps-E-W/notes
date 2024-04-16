@@ -1,6 +1,3 @@
-
-# Troubleshooting Issues with Docker
-
 <style>
 .highlight-light-purple {
 color: #BF9ACA;
@@ -36,6 +33,10 @@ font-weight: bold;
 }
 
 </style>
+
+# Troubleshooting Issues with Docker
+
+
 
 I bet this will be a <strong class="highlight-red">hot</strong> repository!
 
